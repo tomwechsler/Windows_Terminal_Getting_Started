@@ -1,0 +1,7 @@
+{
+"name": "Git Bash",
+"guid": "{d3f90f21-7030-4feb-b72e-ad541bcf36ad}",
+"commandline": "C:\\Program Files\\Git\\bin\\bash.exe -li",
+"icon": "C:\\Program Files\\Git\\mingw64\\share\\git\\git-for-windows.ico",
+"startingDirectory": "%USERPROFILE%"
+}
