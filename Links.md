@@ -18,7 +18,7 @@ https://github.com/devblackops/Terminal-Icons
 **Windows Temrinal Appearance Settings:**  
 https://learn.microsoft.com/en-us/windows/terminal/customize-settings/appearance
 
-**Microsoft Blog for the 1.16 release. Follow this blog for future terminal announcements:**  
+**Microsoft Blog for the 1.16 release:**  
 https://devblogs.microsoft.com/commandline/windows-terminal-preview-1-16-release/
 
 **Some custom themes provided by Microsoft:**  
